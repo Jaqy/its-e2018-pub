@@ -71,9 +71,9 @@ This plan is tentative and may be updated.
   * [I Didn't Buy it for Myself, Cranor](http://lorrie.cranor.org/pubs/personalization-privacy.pdf)
 
 ### 08/10-2018
-* 1515-1600: Incident response and forensics (TL)
+* 1515-1600: Incident response and forensics I (TL)
   * [Computer Security Incident Handling Guide, ch. 2-3](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
-* 1615-1700: Hacking IoT devices (Guest)
+* 1615-1700: Incident response and forensics II (TL)
   * [Hack Back! A DIY Guide](https://pastebin.com/0SNSvyjJ)
 
 ### 10/10-2018
@@ -89,5 +89,5 @@ This plan is tentative and may be updated.
   * [The EU Article 29 Data Protection WP](http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf)
 
 ### 24/10-2018
-* 1015-1100: Latest trends (Guest)
+* 1015-1100: Gæstepræsentation fra Center for Cybersikkerhed (CFCS)
 * 1115-1200: Spørgetime (CJ, TL, MK)
