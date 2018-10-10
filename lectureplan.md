@@ -78,9 +78,9 @@ This plan is tentative and may be updated.
 
 ### 10/10-2018
 * 1015-1100: Security management I (CJ)
-  * [Vejledning i it-risikostyring, Digitaliseringsstyrelsen](https://www.digst.dk/~/media/Files/Informationssikkerhed/Informationssikkerhed-efter-ISO27001/Vejledning-it-risikostyring-og-vurdering_februar-2015.pdf)
+  * [Vejledning i it-risikostyring, Digitaliseringsstyrelsen](https://digst.dk/media/13717/vejledning-it-risikostyring-og-vurdering_februar-2015.pdf)
 * 1115-1200: Security management II (CJ)
-  * [Disaster recovery, Digitaliseringsstyrelsen, read the main page and browse some of the documents](http://www.digst.dk/Arkitektur-og-standarder/Videnscenter-for-implementering-af-ISO27001/Vejledninger-om-sikkerhedsarbejdet/Beredskabsplanlaegning)
+  * [Disaster recovery, Digitaliseringsstyrelsen, read the main page and browse some of the documents](https://digst.dk/sikkerhed/hjaelp-til-sikkerhedsarbejdet/vejledninger-til-sikkerhedsarbejdet/beredskabsplanlaegning/)
 
 ### 22/10-2018
 * 1515-1600: Privacy by design (CJ)
