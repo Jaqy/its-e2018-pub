@@ -94,7 +94,7 @@ This plan is tentative and may be updated.
 * 1015-1100: Privacy by design (CJ)
   * [Databeskyttelse gennem Design, Rådet for Digital Sikkerhed](http://www.digitalsikkerhed.dk/s/RfDS-vejledning-om-DPbD.pdf)
 * 1115-1200: Privacy technology (CJ)
-  * [The EU Article 29 Data Protection WP](http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf)
+  * [The EU Article 29 Data Protection WP](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf)
 
 ### 22/10-2018
 * 1515-1600: Incident response and forensics (TL)
@@ -103,5 +103,5 @@ This plan is tentative and may be updated.
   * [Hack Back! A DIY Guide](https://pastebin.com/0SNSvyjJ)
 
 ### 24/10-201
-* 1015-1100: 
-* 1115-1200: 
+* 1015-1100: FE og Dansk Center for Cyber Security
+* 1115-1200: Question hour
